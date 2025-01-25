@@ -1,0 +1,44 @@
+{
+    "statistics": [
+        {
+            "id": 1,
+            "name": "Money transfer",
+            "transactionsQty": 36,
+            "amount": 7923.52,
+            "inPercent": 68,
+            "icon": "https://george-fx.github.io/apitex_api/assets/icons/01.png"
+        },
+        {
+            "id": 2,
+            "name": "Food products",
+            "transactionsQty": 18,
+            "amount": 1398.27,
+            "inPercent": 12,
+            "icon": "https://george-fx.github.io/apitex_api/assets/icons/04.png"
+        },
+        {
+            "id": 3,
+            "name": "Utility bills",
+            "transactionsQty": 6,
+            "amount": 466.09,
+            "inPercent": 8,
+            "icon": "https://george-fx.github.io/apitex_api/assets/icons/03.png"
+        },
+        {
+            "id": 4,
+            "name": "Utility bills",
+            "transactionsQty": 4,
+            "amount": 332.18,
+            "inPercent": 6,
+            "icon": "https://george-fx.github.io/apitex_api/assets/icons/05.png"
+        },
+        {
+            "id": 5,
+            "name": "Medical supplies",
+            "transactionsQty": 2,
+            "amount": 76.09,
+            "inPercent": 4,
+            "icon": "https://george-fx.github.io/apitex_api/assets/icons/06.png"
+        }
+    ]
+}
