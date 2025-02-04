@@ -1,0 +1,34 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "Salads",
+            "image": "https://george-fx.github.io/dinehub_api/assets/menu/01.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Meat",
+            "image": "https://george-fx.github.io/dinehub_api/assets/menu/02.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Pasta",
+            "image": "https://george-fx.github.io/dinehub_api/assets/menu/03.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Soups",
+            "image": "https://george-fx.github.io/dinehub_api/assets/menu/04.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Hot meals",
+            "image": "https://george-fx.github.io/dinehub_api/assets/menu/05.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Fish",
+            "image": "https://george-fx.github.io/dinehub_api/assets/menu/06.jpg"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "carousel": [
+        {
+            "id": 1,
+            "banner": "https://george-fx.github.io/dinehub_api/assets/banners/01.jpg"
+        },
+        {
+            "id": 2,
+            "banner": "https://george-fx.github.io/dinehub_api/assets/banners/01.jpg"
+        },
+        {
+            "id": 3,
+            "banner": "https://george-fx.github.io/dinehub_api/assets/banners/01.jpg"
+        }
+    ]
+}

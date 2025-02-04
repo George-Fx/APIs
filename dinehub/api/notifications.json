@@ -1,0 +1,25 @@
+{
+    "notifications": [
+        {
+            "id": 1,
+            "title": "Order Out for Delivery",
+            "description": "Your order (#12345) is out for delivery. Keep an eye out for our friendly delivery partner.",
+            "date": "Feb 26 at 12:36 pm",
+            "icon": "https://george-fx.github.io/dinehub_api/assets/icons/01.png"
+        },
+        {
+            "id": 2,
+            "title": "Limited-Time Deal",
+            "description": "Your order (#12345) is out for delivery. Keep an eye out for our friendly delivery partner.",
+            "date": "Feb 26 at 12:36 pm",
+            "icon": "https://george-fx.github.io/dinehub_api/assets/icons/02.png"
+        },
+        {
+            "id": 3,
+            "title": "Reservation Confirmed",
+            "description": "Your order (#12345) is out for delivery. Keep an eye out for our friendly delivery partner.",
+            "date": "Feb 26 at 12:36 pm",
+            "icon": "https://george-fx.github.io/dinehub_api/assets/icons/01.png"
+        }
+    ]
+}

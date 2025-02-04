@@ -1,0 +1,22 @@
+{
+    "promocodes": [
+        {
+            "id": 1,
+            "code": "cooktime2023",
+            "discount": 35,
+            "expiry": "Dec 31, 2023"
+        },
+        {
+            "id": 2,
+            "code": "SprngSale23",
+            "discount": 50,
+            "expiry": "Dec 31, 2023"
+        },
+        {
+            "id": 3,
+            "code": "disMond12",
+            "discount": 10,
+            "expiry": "Dec 31, 2023"
+        }
+    ]
+}
