@@ -1,0 +1,22 @@
+{
+  "onboarding": [
+    {
+      "id": 1,
+      "title1": "Embark On Culinary",
+      "title2": "Adventures",
+      "image": "https://george-fx.github.io/APIs/dinehub/assets/images/05.jpg"
+    },
+    {
+      "id": 2,
+      "title1": "Craft Your",
+      "title2": "Perfect Order",
+      "image": "https://george-fx.github.io/APIs/dinehub/assets/images/06.jpg"
+    },
+    {
+      "id": 3,
+      "title1": "Taste The",
+      "title2": "Delivered Magic",
+      "image": "https://george-fx.github.io/APIs/dinehub/assets/images/07.jpg"
+    }
+  ]
+}
