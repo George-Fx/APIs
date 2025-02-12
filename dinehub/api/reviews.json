@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Adrianna Mercado",
-      "avatar": "https://george-fx.github.io/APIs/dinehub/assets/reviews/01.jpg",
+      "avatar": "https://george-fx.github.io/APIs/dinehub/assets/customers/01.jpg",
       "rating": 5,
       "date": "Aug 23, 2023",
       "comment": "The product quality exceeded my expectations. Highly recommend it!"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Dante Valdez",
-      "avatar": "https://george-fx.github.io/APIs/dinehub/assets/reviews/02.jpg",
+      "avatar": "https://george-fx.github.io/APIs/dinehub/assets/customers/02.jpg",
       "rating": 4,
       "date": "Aug 23, 2023",
       "comment": "Good value for the price, but delivery was slightly delayed."
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "name": "Troy Ingram",
-      "avatar": "https://george-fx.github.io/APIs/dinehub/assets/reviews/03.jpg",
+      "avatar": "https://george-fx.github.io/APIs/dinehub/assets/customers/03.jpg",
       "rating": 5,
       "date": "Aug 23, 2023",
       "comment": "Amazing service and high-quality items. Will order again!"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "name": "Joshua Bean",
-      "avatar": "https://george-fx.github.io/APIs/dinehub/assets/reviews/04.jpg",
+      "avatar": "https://george-fx.github.io/APIs/dinehub/assets/customers/04.jpg",
       "rating": 5,
       "date": "Aug 23, 2023",
       "comment": "Fast delivery and excellent customer support. Highly satisfied!"
