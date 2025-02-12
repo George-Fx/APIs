@@ -6,11 +6,11 @@
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg",
+      "image": "https://george-fx.github.io/APIs/api/assets/dishes/01.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg"
+        "https://george-fx.github.io/APIs/api/assets/dishes/01.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/01.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/01.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
       "dietaryPreferences": [
@@ -32,18 +32,14 @@
       "price": 13.49,
       "weight": 200,
       "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/02.jpg",
+      "image": "https://george-fx.github.io/APIs/api/assets/dishes/02.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/02.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/02.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/02.jpg"
+        "https://george-fx.github.io/APIs/api/assets/dishes/02.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/02.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/02.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "dietaryPreferences": [
-        "High Protein",
-        "Low Carb",
-        "Low Sugar"
-      ],
+      "dietaryPreferences": ["High Protein", "Low Carb", "Low Sugar"],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": true,
@@ -56,18 +52,14 @@
       "price": 15.99,
       "weight": 200,
       "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/03.jpg",
+      "image": "https://george-fx.github.io/APIs/api/assets/dishes/03.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/03.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/03.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/03.jpg"
+        "https://george-fx.github.io/APIs/api/assets/dishes/03.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/03.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/03.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "dietaryPreferences": [
-        "High Protein",
-        "Low Carb",
-        "Low Sugar"
-      ],
+      "dietaryPreferences": ["High Protein", "Low Carb", "Low Sugar"],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
@@ -80,18 +72,14 @@
       "price": 6.99,
       "weight": 200,
       "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/04.jpg",
+      "image": "https://george-fx.github.io/APIs/api/assets/dishes/04.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/04.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/04.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/04.jpg"
+        "https://george-fx.github.io/APIs/api/assets/dishes/04.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/04.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/04.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "dietaryPreferences": [
-        "Low Calorie",
-        "Low Fat",
-        "Vegetarian"
-      ],
+      "dietaryPreferences": ["Low Calorie", "Low Fat", "Vegetarian"],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
@@ -104,11 +92,11 @@
       "price": 14.99,
       "weight": 200,
       "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/05.jpg",
+      "image": "https://george-fx.github.io/APIs/api/assets/dishes/05.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/05.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/05.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/05.jpg"
+        "https://george-fx.github.io/APIs/api/assets/dishes/05.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/05.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/05.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
       "colors": [
@@ -133,11 +121,7 @@
           "code": "#142535"
         }
       ],
-      "dietaryPreferences": [
-        "High Protein",
-        "Comfort Food",
-        "Rich Flavor"
-      ],
+      "dietaryPreferences": ["High Protein", "Comfort Food", "Rich Flavor"],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
@@ -151,11 +135,11 @@
       "weight": 200,
       "kcal": 110,
       "oldPrice": 229.7,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/06.jpg",
+      "image": "https://george-fx.github.io/APIs/api/assets/dishes/06.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/06.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/06.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/06.jpg"
+        "https://george-fx.github.io/APIs/api/assets/dishes/06.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/06.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/06.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
       "dietaryPreferences": [
@@ -177,11 +161,11 @@
       "price": 17.99,
       "weight": 200,
       "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/07.jpg",
+      "image": "https://george-fx.github.io/APIs/api/assets/dishes/07.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/07.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/07.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/07.jpg"
+        "https://george-fx.github.io/APIs/api/assets/dishes/07.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/07.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/07.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
       "dietaryPreferences": [
@@ -202,18 +186,14 @@
       "price": 13.49,
       "weight": 200,
       "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/08.jpg",
+      "image": "https://george-fx.github.io/APIs/api/assets/dishes/08.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/08.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/08.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/08.jpg"
+        "https://george-fx.github.io/APIs/api/assets/dishes/08.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/08.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/08.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "dietaryPreferences": [
-        "High Protein",
-        "Rich Flavor",
-        "Sweet and Savory"
-      ],
+      "dietaryPreferences": ["High Protein", "Rich Flavor", "Sweet and Savory"],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
@@ -227,11 +207,11 @@
       "weight": 200,
       "kcal": 110,
       "oldPrice": 229.7,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/09.jpg",
+      "image": "https://george-fx.github.io/APIs/api/assets/dishes/09.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/09.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/09.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/09.jpg"
+        "https://george-fx.github.io/APIs/api/assets/dishes/09.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/09.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/09.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
       "dietaryPreferences": [
@@ -252,18 +232,14 @@
       "price": 12.79,
       "weight": 200,
       "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/10.jpg",
+      "image": "https://george-fx.github.io/APIs/api/assets/dishes/10.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/10.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/10.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/10.jpg"
+        "https://george-fx.github.io/APIs/api/assets/dishes/10.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/10.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/10.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "dietaryPreferences": [
-        "High Carbs",
-        "Sweet",
-        "Vegetarian"
-      ],
+      "dietaryPreferences": ["High Carbs", "Sweet", "Vegetarian"],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
@@ -276,11 +252,11 @@
       "price": 11.49,
       "weight": 200,
       "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/11.jpg",
+      "image": "https://george-fx.github.io/APIs/api/assets/dishes/11.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/11.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/11.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/11.jpg"
+        "https://george-fx.github.io/APIs/api/assets/dishes/11.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/11.jpg",
+        "https://george-fx.github.io/APIs/api/assets/dishes/11.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
       "dietaryPreferences": [
