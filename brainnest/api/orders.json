@@ -1,0 +1,76 @@
+{
+    "orders": [
+        {
+            "id": 456345,
+            "date": "Feb 02, 2024 at 8:32 PM",
+            "status": "shipping",
+            "total": 129.98,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "FlexFit Training Shoes",
+                    "size": 41,
+                    "color": "blue",
+                    "quantity": 1,
+                    "price": 73.99
+                },
+                {
+                    "id": 2,
+                    "name": "Basketball Shoes",
+                    "size": 41,
+                    "color": "white",
+                    "quantity": 1,
+                    "price": 55.99
+                }
+            ]
+        },
+        {
+            "id": 456346,
+            "date": "Feb 07, 2024 at 8:32 PM",
+            "status": "delivered",
+            "total": 129.98,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "FlexFit Training Shoes",
+                    "size": 41,
+                    "color": "blue",
+                    "quantity": 1,
+                    "price": 73.99
+                },
+                {
+                    "id": 2,
+                    "name": "Basketball Shoes",
+                    "size": 41,
+                    "color": "white",
+                    "quantity": 1,
+                    "price": 55.99
+                }
+            ]
+        },
+        {
+            "id": 456347,
+            "date": "Feb 07, 2024 at 8:32 PM",
+            "status": "canceled",
+            "total": 129.98,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "FlexFit Training Shoes",
+                    "size": 41,
+                    "color": "blue",
+                    "quantity": 1,
+                    "price": 73.99
+                },
+                {
+                    "id": 2,
+                    "name": "Basketball Shoes",
+                    "size": 41,
+                    "color": "white",
+                    "quantity": 1,
+                    "price": 55.99
+                }
+            ]
+        }
+    ]
+}
