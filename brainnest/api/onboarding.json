@@ -13,16 +13,16 @@
       "title1": "Discover Exciting",
       "title2": "Educational Toys",
       "image": "https://george-fx.github.io/APIs/brainnest/assets/onboarding/06.png",
-      "description1": "Welcome to BrainNest – your hub for educational toys and games! ",
-      "description2": "Explore fun and learning for all ages."
+      "description1": "Browse our collection of toys and games.",
+      "description2": "Find the perfect gift for your loved ones."
     },
     {
       "id": 3,
       "title1": "Stay Connected for",
       "title2": "Exclusive Offers",
       "image": "https://george-fx.github.io/APIs/brainnest/assets/onboarding/07.png",
-      "description1": "Welcome to BrainNest – your hub for educational toys and games! ",
-      "description2": "Explore fun and learning for all ages."
+      "description1": "Become a member and get exclusive deals.",
+      "description2": "Stay updated with our latest products."
     }
   ]
 }
