@@ -1,34 +1,34 @@
 {
-    "categories": [
-        {
-            "id": 1,
-            "name": "Building and Construction",
-            "image": "https://george-fx.github.io/brain-nest/assets/categories/01.jpg"
-        },
-        {
-            "id": 2,
-            "name": "Learning Tools and Resources",
-            "image": "https://george-fx.github.io/brain-nest/assets/categories/02.jpg"
-        },
-        {
-            "id": 3,
-            "name": "Creativity and Arts",
-            "image": "https://george-fx.github.io/brain-nest/assets/categories/03.jpg"
-        },
-        {
-            "id": 4,
-            "name": "Coding and Robotics",
-            "image": "https://george-fx.github.io/brain-nest/assets/categories/04.jpg"
-        },
-        {
-            "id": 5,
-            "name": "Educational Games and Puzzles",
-            "image": "https://george-fx.github.io/brain-nest/assets/categories/05.jpg"
-        },
-        {
-            "id": 6,
-            "name": "Exploration and Discovery",
-            "image": "https://george-fx.github.io/brain-nest/assets/categories/06.jpg"
-        }
-    ]
+  "categories": [
+    {
+      "id": 1,
+      "name": "Building and Construction",
+      "image": "https://george-fx.github.io/APIs/brainnest/assets/categories/01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Learning Tools and Resources",
+      "image": "https://george-fx.github.io/APIs/brainnest/assets/categories/02.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Creativity and Arts",
+      "image": "https://george-fx.github.io/APIs/brainnest/assets/categories/03.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Coding and Robotics",
+      "image": "https://george-fx.github.io/APIs/brainnest/assets/categories/04.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Educational Games and Puzzles",
+      "image": "https://george-fx.github.io/APIs/brainnest/assets/categories/05.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Exploration and Discovery",
+      "image": "https://george-fx.github.io/APIs/brainnest/assets/categories/06.jpg"
+    }
+  ]
 }
