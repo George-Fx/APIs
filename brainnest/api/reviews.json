@@ -2,51 +2,35 @@
   "reviews": [
     {
       "id": 1,
-      "name": "Emily Johnson",
+      "name": "Olivia Taylor",
       "rating": 3,
-      "date": "23 Jan 2024",
+      "date": "Jul 23, 2022",
       "photo": "https://george-fx.github.io/APIs/brainnest/assets/users/01.jpg",
-      "comment": "I've never felt more confident during my workouts until I tried FlexFit Training Shoes. They allow me to push myself to the limit every time."
+      "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo."
     },
     {
       "id": 2,
-      "name": "Marcus Nguyen",
+      "name": "William Anderson",
       "rating": 3,
-      "date": "23 Jan 2024",
+      "date": "Jul 23, 2022",
       "photo": "https://george-fx.github.io/APIs/brainnest/assets/users/02.jpg",
-      "comment": "FlexFit Training Shoes are a game-changer! As someone who spends hours in the gym, I appreciate the durability and comfort they offer."
+      "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo."
     },
     {
       "id": 3,
-      "name": "Michael Thompson",
+      "name": "Alexander Johnson",
       "rating": 3,
-      "date": "23 Jan 2024",
+      "date": "Jul 23, 2022",
       "photo": "https://george-fx.github.io/APIs/brainnest/assets/users/03.jpg",
-      "comment": "I've tried numerous training shoes, but none compare to FlexFit. The support and flexibility they offer are unparalleled."
+      "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo."
     },
     {
       "id": 4,
-      "name": "Theresa Webb",
+      "name": "Mia Miller",
       "rating": 3,
-      "date": "23 Jan 2024",
+      "date": "Jul 23, 2022",
       "photo": "https://george-fx.github.io/APIs/brainnest/assets/users/04.jpg",
-      "comment": "I've tried numerous training shoes, but none compare to FlexFit. The support and flexibility they offer are unparalleled."
-    },
-    {
-      "id": 5,
-      "name": "Benjamin Davis",
-      "rating": 3,
-      "date": "23 Jan 2024",
-      "photo": "https://george-fx.github.io/APIs/brainnest/assets/users/05.jpg",
-      "comment": "I've been a loyal customer of FlexFit Training Shoes for years now, and they never disappoint. The quality  worth every penny."
-    },
-    {
-      "id": 6,
-      "name": "Ethan Wilson",
-      "rating": 3,
-      "date": "23 Jan 2024",
-      "photo": "https://george-fx.github.io/APIs/brainnest/assets/users/06.jpg",
-      "comment": "As a professional athlete, I demand the best from my gear, and FlexFit Training Shoes deliver. They offer superior performance and durability."
+      "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo."
     }
   ]
 }
