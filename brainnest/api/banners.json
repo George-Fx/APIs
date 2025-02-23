@@ -4,6 +4,11 @@
       "id": 1,
       "image": "https://george-fx.github.io/APIs/brainnest/assets/banners/01.jpg",
       "promotion": "Unlock the Power of Play"
+    },
+    {
+      "id": 2,
+      "image": "https://george-fx.github.io/APIs/brainnest/assets/banners/02.jpg",
+      "promotion": "Ignite Learning Today!"
     }
   ]
 }
