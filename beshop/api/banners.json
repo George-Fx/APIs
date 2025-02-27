@@ -1,14 +1,14 @@
 {
-    "banners": [
-        {
-            "id": 1,
-            "image": "https://george-fx.github.io/beshop_api/assets/banners/01.jpg",
-            "promotion": ""
-        },
-        {
-            "id": 2,
-            "image": "https://george-fx.github.io/beshop_api/assets/banners/02.jpg",
-            "promotion": "Get Your 50% Off!"
-        }
-    ]
+  "banners": [
+    {
+      "id": 1,
+      "image": "https://george-fx.github.io/APIs/beshop/assets/banners/01.jpg",
+      "promotion": ""
+    },
+    {
+      "id": 2,
+      "image": "https://george-fx.github.io/APIs/beshop/assets/banners/02.jpg",
+      "promotion": "Get Your 50% Off!"
+    }
+  ]
 }
