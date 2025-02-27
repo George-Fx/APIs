@@ -1,34 +1,34 @@
 {
-    "categories": [
-        {
-            "id": 1,
-            "name": "SPA",
-            "image": "https://george-fx.github.io/beshop_api/assets/categories/01.jpg"
-        },
-        {
-            "id": 2,
-            "name": "Nails",
-            "image": "https://george-fx.github.io/beshop_api/assets/categories/02.jpg"
-        },
-        {
-            "id": 3,
-            "name": "Perfum",
-            "image": "https://george-fx.github.io/beshop_api/assets/categories/03.jpg"
-        },
-        {
-            "id": 4,
-            "name": "Skin Care",
-            "image": "https://george-fx.github.io/beshop_api/assets/categories/04.jpg"
-        },
-        {
-            "id": 5,
-            "name": "Hairs",
-            "image": "https://george-fx.github.io/beshop_api/assets/categories/05.jpg"
-        },
-        {
-            "id": 6,
-            "name": "Faces",
-            "image": "https://george-fx.github.io/beshop_api/assets/categories/06.jpg"
-        }
-    ]
+  "categories": [
+    {
+      "id": 1,
+      "name": "SPA",
+      "image": "https://george-fx.github.io/APIs/beshop/assets/categories/01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Nails",
+      "image": "https://george-fx.github.io/APIs/beshop/assets/categories/02.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Perfum",
+      "image": "https://george-fx.github.io/APIs/beshop/assets/categories/03.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Skin Care",
+      "image": "https://george-fx.github.io/APIs/beshop/assets/categories/04.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hairs",
+      "image": "https://george-fx.github.io/APIs/beshop/assets/categories/05.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Faces",
+      "image": "https://george-fx.github.io/APIs/beshop/assets/categories/06.jpg"
+    }
+  ]
 }

@@ -1,338 +1,328 @@
 {
-    "products": [
+  "products": [
+    {
+      "id": 1,
+      "tags": [
+        "Nails",
+        "Face",
+        "Hair",
+        "Make up",
+        "Eye-brows",
+        "Skin",
+        "Lips",
+        "Lashes",
+        "Body",
+        "Mask",
+        "Oil",
+        "Scrab"
+      ],
+      "name": "Detox body Cream",
+      "image": "https://george-fx.github.io/beshop_api/assets/products/01.jpg",
+      "categories": ["Skin Care"],
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+      "price": "42.89",
+      "images": [
+        "https://george-fx.github.io/beshop_api/assets/products/01.jpg",
+        "https://george-fx.github.io/beshop_api/assets/products/01.jpg",
+        "https://george-fx.github.io/beshop_api/assets/products/01.jpg"
+      ],
+      "colors": [
         {
-            "id": 1,
-            "tags": [
-                "Nails",
-                "Face",
-                "Hair",
-                "Make up",
-                "Eye-brows",
-                "Skin",
-                "Lips",
-                "Lashes",
-                "Body",
-                "Mask",
-                "Oil",
-                "Scrab"
-            ],
-            "name": "Detox body Cream",
-            "image": "https://george-fx.github.io/beshop_api/assets/products/01.jpg",
-            "categories": [
-                "Skin Care"
-            ],
-            "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
-            "price": "42.89",
-            "images": [
-                "https://george-fx.github.io/beshop_api/assets/products/01.jpg",
-                "https://george-fx.github.io/beshop_api/assets/products/01.jpg",
-                "https://george-fx.github.io/beshop_api/assets/products/01.jpg"
-            ],
-             "colors": [
-                {
-                    "id": 1,
-                    "name": "Seashell",
-                    "code": "#FCEDEA"
-                },
-                {
-                    "id": 2,
-                    "name": "Misty Rose 1",
-                    "code": "#FEE1DB"
-                },
-                {
-                    "id": 3,
-                    "name": "Misty Rose 2",
-                    "code": "#FFD9D1"
-                },
-                {
-                    "id": 4,
-                    "name": "Picton Blue",
-                    "code": "#FDC5B9"
-                },
-                {
-                    "id": 5,
-                    "name": "Flesh",
-                    "code": "#FDB7A8"
-                },
-                {
-                    "id": 6,
-                    "name": "Brink Pink",
-                    "code": "#FFA08A"
-                }
-            ],
-            "rating": 5,
-            "quantity": null,
-            "oldPrice": null,
-            "isFeatured": true,
-            "isBestseller": true
+          "id": 1,
+          "name": "Seashell",
+          "code": "#FCEDEA"
         },
         {
-            "id": 2,
-            "tags": [
-                "Nails",
-                "Face",
-                "Hair",
-                "Make up",
-                "Eye-brows",
-                "Skin",
-                "Lips",
-                "Lashes",
-                "Body",
-                "Mask",
-                "Oil",
-                "Scrab"
-            ],
-            "name": "Foundation Beshop",
-            "image": "https://george-fx.github.io/beshop_api/assets/products/02.jpg",
-            "categories": [
-                "Make Up"
-            ],
-            "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
-            "price": "30.00",
-            "images": [
-                "https://george-fx.github.io/beshop_api/assets/products/02.jpg",
-                "https://george-fx.github.io/beshop_api/assets/products/02.jpg",
-                "https://george-fx.github.io/beshop_api/assets/products/02.jpg"
-            ],
-            "colors": [
-                {
-                    "id": 1,
-                    "name": "Seashell",
-                    "code": "#FCEDEA"
-                },
-                {
-                    "id": 2,
-                    "name": "Misty Rose 1",
-                    "code": "#FEE1DB"
-                },
-                {
-                    "id": 3,
-                    "name": "Misty Rose 2",
-                    "code": "#FFD9D1"
-                },
-                {
-                    "id": 4,
-                    "name": "Picton Blue",
-                    "code": "#FDC5B9"
-                },
-                {
-                    "id": 5,
-                    "name": "Flesh",
-                    "code": "#FDB7A8"
-                },
-                {
-                    "id": 6,
-                    "name": "Brink Pink",
-                    "code": "#FFA08A"
-                }
-            ],
-            "rating": 5,
-            "quantity": null,
-            "oldPrice": "38.00",
-            "isFeatured": true,
-            "isBestseller": true
+          "id": 2,
+          "name": "Misty Rose 1",
+          "code": "#FEE1DB"
         },
         {
-            "id": 3,
-            "created_at": "2023-11-17T17:01:51.000000Z",
-            "updated_at": "2023-11-17T17:01:51.000000Z",
-            "tags": [
-                "Nails",
-                "Face",
-                "Hair",
-                "Make up",
-                "Eye-brows",
-                "Skin",
-                "Lips",
-                "Lashes",
-                "Body",
-                "Mask",
-                "Oil",
-                "Scrab"
-            ],
-            "name": "Toning hair mask",
-            "image": "https://george-fx.github.io/beshop_api/assets/products/03.jpg",
-            "categories": [
-                "Hair Care"
-            ],
-            "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
-            "price": "54.96",
-            "images": [
-                "https://george-fx.github.io/beshop_api/assets/products/03.jpg",
-                "https://george-fx.github.io/beshop_api/assets/products/03.jpg",
-                "https://george-fx.github.io/beshop_api/assets/products/03.jpg"
-            ],
-            "colors": [
-                {
-                    "id": 1,
-                    "name": "Seashell",
-                    "code": "#FCEDEA"
-                },
-                {
-                    "id": 2,
-                    "name": "Misty Rose 1",
-                    "code": "#FEE1DB"
-                },
-                {
-                    "id": 3,
-                    "name": "Misty Rose 2",
-                    "code": "#FFD9D1"
-                },
-                {
-                    "id": 4,
-                    "name": "Picton Blue",
-                    "code": "#FDC5B9"
-                },
-                {
-                    "id": 5,
-                    "name": "Flesh",
-                    "code": "#FDB7A8"
-                },
-                {
-                    "id": 6,
-                    "name": "Brink Pink",
-                    "code": "#FFA08A"
-                }
-            ],
-            "rating": 5,
-            "quantity": null,
-            "oldPrice": null,
-            "isFeatured": true,
-            "isBestseller": true
+          "id": 3,
+          "name": "Misty Rose 2",
+          "code": "#FFD9D1"
         },
         {
-            "id": 4,
-            "created_at": "2023-11-17T17:03:14.000000Z",
-            "updated_at": "2023-11-17T17:03:14.000000Z",
-           "tags": [
-                "Nails",
-                "Face",
-                "Hair",
-                "Make up",
-                "Eye-brows",
-                "Skin",
-                "Lips",
-                "Lashes",
-                "Body",
-                "Mask",
-                "Oil",
-                "Scrab"
-            ],
-            "name": "Detox night body Cream",
-            "image": "https://george-fx.github.io/beshop_api/assets/products/04.jpg",
-            "categories": [
-                "Skin Care"
-            ],
-            "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
-            "price": "31.78",
-            "images": [
-                "https://george-fx.github.io/beshop_api/assets/products/04.jpg",
-                "https://george-fx.github.io/beshop_api/assets/products/04.jpg",
-                "https://george-fx.github.io/beshop_api/assets/products/04.jpg"
-            ],
-            "colors": [
-                {
-                    "id": 1,
-                    "name": "Seashell",
-                    "code": "#FCEDEA"
-                },
-                {
-                    "id": 2,
-                    "name": "Misty Rose 1",
-                    "code": "#FEE1DB"
-                },
-                {
-                    "id": 3,
-                    "name": "Misty Rose 2",
-                    "code": "#FFD9D1"
-                },
-                {
-                    "id": 4,
-                    "name": "Picton Blue",
-                    "code": "#FDC5B9"
-                },
-                {
-                    "id": 5,
-                    "name": "Flesh",
-                    "code": "#FDB7A8"
-                },
-                {
-                    "id": 6,
-                    "name": "Brink Pink",
-                    "code": "#FFA08A"
-                }
-            ],
-            "rating": 5,
-            "quantity": null,
-            "oldPrice": null,
-            "isFeatured": true,
-            "isBestseller": true
+          "id": 4,
+          "name": "Picton Blue",
+          "code": "#FDC5B9"
         },
         {
-            "id": 5,
-           "tags": [
-                "Nails",
-                "Face",
-                "Hair",
-                "Make up",
-                "Eye-brows",
-                "Skin",
-                "Lips",
-                "Lashes",
-                "Body",
-                "Mask",
-                "Oil",
-                "Scrab"
-            ],
-            "name": "Spray balm with oat",
-            "image": "https://george-fx.github.io/beshop_api/assets/products/05.jpg",
-            "categories": [
-                "Make Up"
-            ],
-            "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
-            "price": "31.78",
-            "images": [
-                "https://george-fx.github.io/beshop_api/assets/products/05.jpg",
-                "https://george-fx.github.io/beshop_api/assets/products/05.jpg",
-                "https://george-fx.github.io/beshop_api/assets/products/05.jpg"
-            ],
-            "colors": [
-                {
-                    "id": 1,
-                    "name": "Seashell",
-                    "code": "#FCEDEA"
-                },
-                {
-                    "id": 2,
-                    "name": "Misty Rose 1",
-                    "code": "#FEE1DB"
-                },
-                {
-                    "id": 3,
-                    "name": "Misty Rose 2",
-                    "code": "#FFD9D1"
-                },
-                {
-                    "id": 4,
-                    "name": "Picton Blue",
-                    "code": "#FDC5B9"
-                },
-                {
-                    "id": 5,
-                    "name": "Flesh",
-                    "code": "#FDB7A8"
-                },
-                {
-                    "id": 6,
-                    "name": "Brink Pink",
-                    "code": "#FFA08A"
-                }
-            ],
-            "rating": 5,
-            "quantity": null,
-            "oldPrice": "38.00",
-            "isFeatured": true,
-            "isBestseller": true
+          "id": 5,
+          "name": "Flesh",
+          "code": "#FDB7A8"
+        },
+        {
+          "id": 6,
+          "name": "Brink Pink",
+          "code": "#FFA08A"
         }
-    ]
+      ],
+      "rating": 5,
+      "quantity": null,
+      "oldPrice": null,
+      "isFeatured": true,
+      "isBestseller": true
+    },
+    {
+      "id": 2,
+      "tags": [
+        "Nails",
+        "Face",
+        "Hair",
+        "Make up",
+        "Eye-brows",
+        "Skin",
+        "Lips",
+        "Lashes",
+        "Body",
+        "Mask",
+        "Oil",
+        "Scrab"
+      ],
+      "name": "Foundation Beshop",
+      "image": "https://george-fx.github.io/beshop_api/assets/products/02.jpg",
+      "categories": ["Make Up"],
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+      "price": "30.00",
+      "images": [
+        "https://george-fx.github.io/beshop_api/assets/products/02.jpg",
+        "https://george-fx.github.io/beshop_api/assets/products/02.jpg",
+        "https://george-fx.github.io/beshop_api/assets/products/02.jpg"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "Seashell",
+          "code": "#FCEDEA"
+        },
+        {
+          "id": 2,
+          "name": "Misty Rose 1",
+          "code": "#FEE1DB"
+        },
+        {
+          "id": 3,
+          "name": "Misty Rose 2",
+          "code": "#FFD9D1"
+        },
+        {
+          "id": 4,
+          "name": "Picton Blue",
+          "code": "#FDC5B9"
+        },
+        {
+          "id": 5,
+          "name": "Flesh",
+          "code": "#FDB7A8"
+        },
+        {
+          "id": 6,
+          "name": "Brink Pink",
+          "code": "#FFA08A"
+        }
+      ],
+      "rating": 5,
+      "quantity": null,
+      "oldPrice": "38.00",
+      "isFeatured": true,
+      "isBestseller": true
+    },
+    {
+      "id": 3,
+      "created_at": "2023-11-17T17:01:51.000000Z",
+      "updated_at": "2023-11-17T17:01:51.000000Z",
+      "tags": [
+        "Nails",
+        "Face",
+        "Hair",
+        "Make up",
+        "Eye-brows",
+        "Skin",
+        "Lips",
+        "Lashes",
+        "Body",
+        "Mask",
+        "Oil",
+        "Scrab"
+      ],
+      "name": "Toning hair mask",
+      "image": "https://george-fx.github.io/beshop_api/assets/products/03.jpg",
+      "categories": ["Hair Care"],
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+      "price": "54.96",
+      "images": [
+        "https://george-fx.github.io/beshop_api/assets/products/03.jpg",
+        "https://george-fx.github.io/beshop_api/assets/products/03.jpg",
+        "https://george-fx.github.io/beshop_api/assets/products/03.jpg"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "Seashell",
+          "code": "#FCEDEA"
+        },
+        {
+          "id": 2,
+          "name": "Misty Rose 1",
+          "code": "#FEE1DB"
+        },
+        {
+          "id": 3,
+          "name": "Misty Rose 2",
+          "code": "#FFD9D1"
+        },
+        {
+          "id": 4,
+          "name": "Picton Blue",
+          "code": "#FDC5B9"
+        },
+        {
+          "id": 5,
+          "name": "Flesh",
+          "code": "#FDB7A8"
+        },
+        {
+          "id": 6,
+          "name": "Brink Pink",
+          "code": "#FFA08A"
+        }
+      ],
+      "rating": 5,
+      "quantity": null,
+      "oldPrice": null,
+      "isFeatured": true,
+      "isBestseller": true
+    },
+    {
+      "id": 4,
+      "created_at": "2023-11-17T17:03:14.000000Z",
+      "updated_at": "2023-11-17T17:03:14.000000Z",
+      "tags": [
+        "Nails",
+        "Face",
+        "Hair",
+        "Make up",
+        "Eye-brows",
+        "Skin",
+        "Lips",
+        "Lashes",
+        "Body",
+        "Mask",
+        "Oil",
+        "Scrab"
+      ],
+      "name": "Detox night body Cream",
+      "image": "https://george-fx.github.io/beshop_api/assets/products/04.jpg",
+      "categories": ["Skin Care"],
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+      "price": "31.78",
+      "images": [
+        "https://george-fx.github.io/beshop_api/assets/products/04.jpg",
+        "https://george-fx.github.io/beshop_api/assets/products/04.jpg",
+        "https://george-fx.github.io/beshop_api/assets/products/04.jpg"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "Seashell",
+          "code": "#FCEDEA"
+        },
+        {
+          "id": 2,
+          "name": "Misty Rose 1",
+          "code": "#FEE1DB"
+        },
+        {
+          "id": 3,
+          "name": "Misty Rose 2",
+          "code": "#FFD9D1"
+        },
+        {
+          "id": 4,
+          "name": "Picton Blue",
+          "code": "#FDC5B9"
+        },
+        {
+          "id": 5,
+          "name": "Flesh",
+          "code": "#FDB7A8"
+        },
+        {
+          "id": 6,
+          "name": "Brink Pink",
+          "code": "#FFA08A"
+        }
+      ],
+      "rating": 5,
+      "quantity": null,
+      "oldPrice": null,
+      "isFeatured": true,
+      "isBestseller": true
+    },
+    {
+      "id": 5,
+      "tags": [
+        "Nails",
+        "Face",
+        "Hair",
+        "Make up",
+        "Eye-brows",
+        "Skin",
+        "Lips",
+        "Lashes",
+        "Body",
+        "Mask",
+        "Oil",
+        "Scrab"
+      ],
+      "name": "Spray balm with oat",
+      "image": "https://george-fx.github.io/beshop_api/assets/products/05.jpg",
+      "categories": ["Make Up"],
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+      "price": "31.78",
+      "images": [
+        "https://george-fx.github.io/beshop_api/assets/products/05.jpg",
+        "https://george-fx.github.io/beshop_api/assets/products/05.jpg",
+        "https://george-fx.github.io/beshop_api/assets/products/05.jpg"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "Seashell",
+          "code": "#FCEDEA"
+        },
+        {
+          "id": 2,
+          "name": "Misty Rose 1",
+          "code": "#FEE1DB"
+        },
+        {
+          "id": 3,
+          "name": "Misty Rose 2",
+          "code": "#FFD9D1"
+        },
+        {
+          "id": 4,
+          "name": "Picton Blue",
+          "code": "#FDC5B9"
+        },
+        {
+          "id": 5,
+          "name": "Flesh",
+          "code": "#FDB7A8"
+        },
+        {
+          "id": 6,
+          "name": "Brink Pink",
+          "code": "#FFA08A"
+        }
+      ],
+      "rating": 5,
+      "quantity": null,
+      "oldPrice": "38.00",
+      "isFeatured": true,
+      "isBestseller": true
+    }
+  ]
 }
